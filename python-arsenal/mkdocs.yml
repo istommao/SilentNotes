@@ -1,0 +1,7 @@
+site_name: Python Arsenal
+
+pages:
+- 环境及包管理: index.md
+- 日期和时间: datetime.md
+
+theme: readthedocs
