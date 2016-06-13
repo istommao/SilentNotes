@@ -1,0 +1,6 @@
+site_name: git
+
+pages:
+- 介绍: index.md
+
+theme: readthedocs
