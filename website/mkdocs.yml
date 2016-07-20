@@ -1,0 +1,8 @@
+site_name: 收藏家
+
+pages:
+- 站点: index.md
+- 博客: blog.md
+
+
+theme: readthedocs
