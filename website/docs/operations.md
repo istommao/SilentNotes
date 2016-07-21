@@ -1,0 +1,3 @@
+- [运维派](http://www.yunweipai.com/)
+- [运维进行时](http://blog.liuts.com/index.php)
+- [服务器运维与网站架构|Linux运维|X研究](http://www.ha97.com/)

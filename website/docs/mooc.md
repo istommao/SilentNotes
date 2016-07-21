@@ -1,0 +1,3 @@
+- [中国大学MOOC](http://www.icourse163.org/)
+- [学堂在线](http://www.xuetangx.com/)
+- [MOOC学院](http://mooc.guokr.com/)

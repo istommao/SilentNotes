@@ -1,8 +1,12 @@
 site_name: 收藏家
 
 pages:
-- 站点: index.md
-- 博客: blog.md
-
+- 技术站点: index.md
+- 个人博客: blog.md
+- 团队博客: teamblog.md
+- 安全类: security.md
+- 资讯类: news.md
+- 运维相关: operations.md
+- MOOC学院: mooc.md
 
 theme: readthedocs
