@@ -2,3 +2,5 @@ site
 
 .DS_Store
 *.pyc
+
+_book/
